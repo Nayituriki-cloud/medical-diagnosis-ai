@@ -1,0 +1,8 @@
+{
+  "name": "MediDiagnosis AI",
+  "description": "AI Medical Symptom Assessment & Clinical Support. Understand your symptoms, assess urgency, explore possible conditions, and generate physician-ready clinical reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
